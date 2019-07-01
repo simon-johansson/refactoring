@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="175 -80 146 102" width="146" height="102">
+  <defs>
+    <font-face font-family="Cambria Math" font-size="32" panose-1="2 4 5 3 5 4 6 3 2 4" units-per-em="1000" underline-position="-61.035156" underline-thickness="56.640625" slope="0" x-height="466.7969" cap-height="666.5039" ascent="950.1953" descent="-222.16797" font-weight="400">
+      <font-face-src>
+        <font-face-name name="CambriaMath"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Inconsolata" font-size="16" panose-1="2 11 6 9 3 0 3 0 0 0" units-per-em="1000" underline-position="-125" underline-thickness="50" slope="0" x-height="456" cap-height="623" ascent="834.0017" descent="-176.00036" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Inconsolata"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-13 16:28:57 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="175" y="-80" width="146" height="102"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <text transform="translate(204.29516 -21)" fill="#26bdcf">
+          <tspan font-family="Cambria Math" font-size="32" font-weight="400" fill="#26bdcf" x=".0078125" y="30">𝛑</tspan>
+        </text>
+      </g>
+      <g id="Line_4">
+        <path d="M 221 -12 C 225.90664 -20.995508 230.81328 -23.303482 230.25103 -39.158806" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(180 -74.72)" fill="black">
+          <tspan font-family="Inconsolata" font-size="16" font-weight="500" fill="black" x="0" y="13">2 * </tspan>
+          <tspan font-family="Inconsolata" font-size="16" font-weight="500" fill="#808285" y="13">3.14</tspan>
+          <tspan font-family="Inconsolata" font-size="16" font-weight="500" fill="black" y="13"> * radius</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

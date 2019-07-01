@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-1056 -126 269 104.00002"
+   width="269"
+   height="104.00002"
+   id="svg13071"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\replaceConstructorWithFactoryFunction\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview13073"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0669145"
+     inkscape:cx="134.5"
+     inkscape:cy="52"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13071" />
+  <defs
+     id="defs13032">
+    <font-face
+       font-family="Open Sans"
+       font-size="20"
+       panose-1="2 11 8 6 3 5 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-75.19531"
+       underline-thickness="49.80469"
+       slope="0"
+       x-height="545.89844"
+       cap-height="713.8672"
+       ascent="1068.8477"
+       descent="-292.96875"
+       font-weight="700"
+       id="font-face13010"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="OpenSans-Bold" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#ef5ba1;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g13014">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path13012"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker_2"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#808285;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g13019">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path13017"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker_3"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#26bdcf;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g13024">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path13022"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker_4"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#26bdcf;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g13029">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path13027"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+  </defs>
+  <metadata
+     id="metadata13034"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-02-12 19:54:11 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="Canvas_1"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(0,1.4559181e-5)">
+    <title
+       id="title13036">Canvas 1</title>
+    <rect
+       x="-1056"
+       y="-126"
+       width="269"
+       height="104"
+       id="rect13038"
+       style="fill:#ffffff" />
+    <g
+       id="Canvas_1: Layer 1">
+      <title
+         id="title13040">Layer 1</title>
+      <g
+         id="Graphic_5">
+        <text
+           transform="translate(-950,-54.5)"
+           id="text13044"
+           style="fill:#000000">
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0.27929688"
+             y="21"
+             id="tspan13042"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#000000">new Thing( ) <tspan
+   style="letter-spacing:5.62369204"
+   id="tspan13654">{</tspan>
+ }</tspan>
+        </text>
+      </g>
+      <g
+         id="Line_7">
+        <path
+           d="m -996.6667,-45 c -19.929,-34.16406 13.6379,-57.38578 33.2027,-44.74284"
+           id="path13047"
+           inkscape:connector-curvature="0"
+           style="stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#StickArrow_Marker)" />
+      </g>
+      <g
+         id="Graphic_10">
+        <path
+           d="m -1045,-47 c 2.5,0 10,0 10,6 0,6 -7.5,6 -10,6 -2.5,0 0,0 0,0 -1.656,0 -10,0 -10,-6 0,-6 7.5,-6 10,-6 z"
+           id="path13050"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m -1045,-47 c 2.5,0 10,0 10,6 0,6 -7.5,6 -10,6 -2.5,0 0,0 0,0 -1.656,0 -10,0 -10,-6 0,-6 7.5,-6 10,-6 z"
+           id="path13052"
+           inkscape:connector-curvature="0"
+           style="stroke:#808285;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <g
+         id="Line_9">
+        <line
+           x1="-1035.001"
+           y1="-40.882362"
+           x2="-972.89911"
+           y2="-40.151752"
+           id="line13055"
+           style="stroke:#808285;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8, 8;marker-end:url(#StickArrow_Marker_2)" />
+      </g>
+      <g
+         id="Graphic_11">
+        <path
+           d="m -894.1667,-125 c 5.2084,0 20.8334,0 20.8334,12.5 0,12.5 -15.625,12.5 -20.8334,12.5 -5.2083,0 0,0 0,0 -3.45,0 -20.8333,0 -20.8333,-12.5 0,-12.5 15.625,-12.5 20.8333,-12.5 z"
+           id="path13058"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m -894.1667,-125 c 5.2084,0 20.8334,0 20.8334,12.5 0,12.5 -15.625,12.5 -20.8334,12.5 -5.2083,0 0,0 0,0 -3.45,0 -20.8333,0 -20.8333,-12.5 0,-12.5 15.625,-12.5 20.8333,-12.5 z"
+           id="path13060"
+           inkscape:connector-curvature="0"
+           style="stroke:#26bdcf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <g
+         id="Line_12">
+        <line
+           x1="-1036.6755"
+           y1="-44.946098"
+           x2="-923.45099"
+           y2="-98.618279"
+           id="line13063"
+           style="stroke:#26bdcf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8, 8;marker-end:url(#StickArrow_Marker_3)" />
+      </g>
+      <g
+         id="Line_13">
+        <line
+           x1="-894.16669"
+           y1="-100"
+           x2="-894.16669"
+           y2="-67.900002"
+           id="line13066"
+           style="stroke:#26bdcf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8, 8;marker-end:url(#StickArrow_Marker_4)" />
+      </g>
+    </g>
+  </g>
+</svg>

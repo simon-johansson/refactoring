@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-661 -57 127 78" width="127" height="78">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-02-12 14:24:23 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-661" y="-57" width="127" height="78"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_6">
+        <g id="Line_16">
+          <line x1="-560" y1="-15" x2="-631.53846" y2="-15" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_11">
+          <line x1="-570" y1="-5" x2="-631.53846" y2="-5" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_10">
+          <line x1="-570" y1="5" x2="-631.53846" y2="5" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_9">
+          <line x1="-570" y1="15" x2="-631.53846" y2="15" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_23">
+        <line x1="-660" y1="-55" x2="-535" y2="20" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_24">
+        <line x1="-650" y1="16" x2="-540" y2="-55" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group_25">
+        <g id="Line_29">
+          <line x1="-560" y1="-55" x2="-631.53846" y2="-55" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_28">
+          <line x1="-570" y1="-45" x2="-631.53846" y2="-45" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_27">
+          <line x1="-570" y1="-35" x2="-631.53846" y2="-35" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_26">
+          <line x1="-570" y1="-25" x2="-631.53846" y2="-25" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

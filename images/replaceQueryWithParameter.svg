@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-890 -291 221 102"
+   width="221"
+   height="102"
+   id="svg12147"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\replaceQueryWithParameter\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview12149"
+     showgrid="false"
+     inkscape:zoom="3.67"
+     inkscape:cx="110.5"
+     inkscape:cy="51"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12147" />
+  <defs
+     id="defs12089">
+    <font-face
+       font-family="Open Sans"
+       font-size="20"
+       panose-1="2 11 8 6 3 5 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-75.19531"
+       underline-thickness="49.80469"
+       slope="0"
+       x-height="545.89844"
+       cap-height="713.8672"
+       ascent="1068.8477"
+       descent="-292.96875"
+       font-weight="700"
+       id="font-face12071">
+      <font-face-src>
+        <font-face-name
+           name="OpenSans-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="PingFang SC"
+       font-size="20"
+       panose-1="2 11 8 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-150"
+       underline-thickness="80"
+       slope="0"
+       x-height="600"
+       cap-height="860"
+       ascent="1060.0021"
+       descent="-340.0007"
+       font-weight="600"
+       id="font-face12073">
+      <font-face-src>
+        <font-face-name
+           name="PingFangSC-Semibold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="STIXGeneral"
+       font-size="20"
+       units-per-em="1000"
+       underline-position="-75"
+       underline-thickness="50"
+       slope="0"
+       x-height="450"
+       cap-height="662"
+       ascent="1055.0021"
+       descent="-455.0009"
+       font-weight="400"
+       id="font-face12075">
+      <font-face-src>
+        <font-face-name
+           name="STIXGeneral-Regular" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Zapf Dingbats"
+       font-size="20"
+       panose-1="5 2 1 2 1 7 4 2 6 9"
+       units-per-em="1000"
+       underline-position="-100.09766"
+       underline-thickness="60.058594"
+       slope="0"
+       x-height="542.4805"
+       cap-height="723.1445"
+       ascent="813.9648"
+       descent="-176.75781"
+       font-weight="400"
+       id="font-face12077">
+      <font-face-src>
+        <font-face-name
+           name="ZapfDingbatsITC" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       color="#808285">
+      <g
+         id="g12081">
+        <path
+           d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path12079" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker_2"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       color="#ef5ba1">
+      <g
+         id="g12086">
+        <path
+           d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path12084" />
+      </g>
+    </marker>
+  </defs>
+  <metadata
+     id="metadata12091"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-15 14:34:38 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="Canvas_1"
+     fill-opacity="1"
+     stroke-dasharray="none"
+     stroke="none"
+     stroke-opacity="1"
+     fill="none">
+    <title
+       id="title12093">Canvas 1</title>
+    <rect
+       fill="white"
+       x="-890"
+       y="-291"
+       width="221"
+       height="102"
+       id="rect12095" />
+    <g
+       id="Canvas_1: Layer 1">
+      <title
+         id="title12097">Layer 1</title>
+      <g
+         id="Graphic_11">
+        <text
+           transform="translate(-885,-278.4049)"
+           id="text12113"
+           style="fill:#000000">
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0"
+             y="21"
+             id="tspan12099"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#000000">f (</tspan>
+          <tspan
+             font-size="20"
+             font-weight="600"
+             y="21"
+             id="tspan12103"
+             style="font-weight:600;font-size:20px;font-family:'PingFang SC';letter-spacing:12.31701946;fill:#26bdcf">▲</tspan>
+          <tspan
+             font-size="20"
+             font-weight="700"
+             y="21"
+             id="tspan12109"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';letter-spacing:0.30249822;fill:#000000">) {</tspan>
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0"
+             y="78"
+             id="tspan12111"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#000000">}</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_12">
+        <path
+           d="M -870 -238.4049 C -867.5 -238.4049 -860 -238.4049 -860 -232.4049 C -860 -226.40491 -867.5 -226.40491 -870 -226.40491 C -872.5 -226.40491 -870 -226.40491 -870 -226.40491 C -871.656 -226.40491 -880 -226.40491 -880 -232.4049 C -880 -238.4049 -872.5 -238.4049 -870 -238.4049 Z"
+           fill="white"
+           id="path12116" />
+        <path
+           d="M -870 -238.4049 C -867.5 -238.4049 -860 -238.4049 -860 -232.4049 C -860 -226.40491 -867.5 -226.40491 -870 -226.40491 C -872.5 -226.40491 -870 -226.40491 -870 -226.40491 C -871.656 -226.40491 -880 -226.40491 -880 -232.4049 C -880 -238.4049 -872.5 -238.4049 -870 -238.4049 Z"
+           stroke="#808285"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path12118" />
+      </g>
+      <g
+         id="Group_19">
+        <g
+           id="Graphic_18">
+          <rect
+             x="-735"
+             y="-238.4049"
+             width="65"
+             height="45"
+             fill="white"
+             id="rect12121" />
+          <rect
+             x="-735"
+             y="-238.4049"
+             width="65"
+             height="45"
+             stroke="black"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             id="rect12123" />
+        </g>
+        <g
+           id="Graphic_17">
+          <path
+             d="M -735 -225.40491 C -732.5 -225.40491 -725 -225.40491 -725 -219.40491 C -725 -213.40491 -732.5 -213.40491 -735 -213.40491 C -737.5 -213.40491 -735 -213.40491 -735 -213.40491 C -736.656 -213.40491 -745 -213.40491 -745 -219.40491 C -745 -225.40491 -737.5 -225.40491 -735 -225.40491 Z"
+             fill="white"
+             id="path12126" />
+          <path
+             d="M -735 -225.40491 C -732.5 -225.40491 -725 -225.40491 -725 -219.40491 C -725 -213.40491 -732.5 -213.40491 -735 -213.40491 C -737.5 -213.40491 -735 -213.40491 -735 -213.40491 C -736.656 -213.40491 -745 -213.40491 -745 -219.40491 C -745 -225.40491 -737.5 -225.40491 -735 -225.40491 Z"
+             stroke="black"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             id="path12128" />
+        </g>
+        <g
+           id="Graphic_16">
+          <text
+             transform="translate(-720 -232.9049)"
+             fill="black"
+             id="text12135">
+            <tspan
+               font-family="Zapf Dingbats"
+               font-size="20"
+               font-weight="400"
+               fill="black"
+               x=".05957031"
+               y="21"
+               id="tspan12131">➔</tspan>
+            <tspan
+               font-family="PingFang SC"
+               font-size="20"
+               font-weight="600"
+               fill="black"
+               y="21"
+               id="tspan12133">▲</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         id="Line_20">
+        <line
+           x1="-860.0674"
+           y1="-231.44844"
+           x2="-758.272"
+           y2="-221.64592"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#808285"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dasharray="8.0,8.0"
+           stroke-width="2"
+           id="line12139" />
+      </g>
+      <g
+         id="Line_21">
+        <path
+           d="M -695 -226.40491 C -690.4629 -258.16468 -805.3209 -308.03956 -840.8229 -283.3787"
+           marker-end="url(#StickArrow_Marker_2)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path12142" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-26 -71 235 164"
+   width="235"
+   height="164"
+   id="svg7098"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\combineFunctionsIntoTransform\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview7100"
+     showgrid="false"
+     inkscape:zoom="2.4425532"
+     inkscape:cx="50.971255"
+     inkscape:cy="82"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7098"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs7024">
+    <font-face
+       font-family="Open Sans"
+       font-size="20"
+       panose-1="2 11 8 6 3 5 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-75.19531"
+       underline-thickness="49.80469"
+       slope="0"
+       x-height="545.89844"
+       cap-height="713.8672"
+       ascent="1068.8477"
+       descent="-292.96875"
+       font-weight="700"
+       id="font-face7006"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="OpenSans-Bold" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#26bdcf;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g7010">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path7008"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker_2"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#ef5ba1;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g7015">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path7013"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+    <font-face
+       font-family="AppleMyungjo"
+       font-size="20"
+       units-per-em="1000"
+       underline-position="0"
+       underline-thickness="82.65303"
+       slope="0"
+       x-height="464.39024"
+       cap-height="728.7805"
+       ascent="869.2627"
+       descent="-318.0542"
+       font-weight="400"
+       id="font-face7018"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="AppleMyungjo" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Zapf Dingbats"
+       font-size="20"
+       panose-1="5 2 1 2 1 7 4 2 6 9"
+       units-per-em="1000"
+       underline-position="-100.09766"
+       underline-thickness="60.058594"
+       slope="0"
+       x-height="542.4805"
+       cap-height="723.1445"
+       ascent="813.9648"
+       descent="-176.75781"
+       font-weight="400"
+       id="font-face7020"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="ZapfDingbatsITC" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="PingFang SC"
+       font-size="20"
+       panose-1="2 11 8 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-150"
+       underline-thickness="80"
+       slope="0"
+       x-height="600"
+       cap-height="860"
+       ascent="1060.0021"
+       descent="-340.0007"
+       font-weight="600"
+       id="font-face7022"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="PingFangSC-Semibold" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata
+     id="metadata7026"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-08 15:19:19 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="Canvas_1"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title7028">Canvas 1</title>
+    <rect
+       x="-26"
+       y="-71"
+       width="235"
+       height="164"
+       id="rect7030"
+       style="fill:#ffffff" />
+    <g
+       id="Canvas_1: Layer 1">
+      <title
+         id="title7032">Layer 1</title>
+      <g
+         id="Graphic_20">
+        <rect
+           x="163.65463"
+           y="-31"
+           width="44"
+           height="89"
+           id="rect7034"
+           style="fill:#ffffff" />
+        <rect
+           x="163.65463"
+           y="-31"
+           width="44"
+           height="89"
+           id="rect7036"
+           style="stroke:#26bdcf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <g
+         id="Graphic_9">
+        <text
+           transform="translate(38.5,-5.5)"
+           id="text7045"
+           style="fill:#26bdcf">
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0.15234375"
+             y="21"
+             id="tspan7039"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#26bdcf">e() <tspan
+   style="letter-spacing:39.30315781"
+   id="tspan7707">{</tspan>
+}</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_8">
+        <path
+           d="m 185,4.5 8,7.5 -8,7.5 -8,-7.5 z"
+           id="path7048"
+           inkscape:connector-curvature="0"
+           style="fill:#26bdcf" />
+      </g>
+      <g
+         id="Line_7">
+        <line
+           x1="139"
+           y1="11"
+           x2="146.75464"
+           y2="11"
+           id="line7051"
+           style="stroke:#26bdcf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#StickArrow_Marker)" />
+      </g>
+      <g
+         id="Graphic_6">
+        <path
+           d="m 177,44 8,-15 8,15 z"
+           id="path7054"
+           inkscape:connector-curvature="0"
+           style="fill:#26bdcf" />
+      </g>
+      <g
+         id="Graphic_5">
+        <rect
+           x="177"
+           y="-20"
+           width="16"
+           height="15"
+           id="rect7057"
+           style="fill:#26bdcf" />
+      </g>
+      <g
+         id="Line_4">
+        <path
+           d="M 48,63 C 65.490234,56.003906 92.15772,49.772583 103.92561,24.242002"
+           id="path7060"
+           inkscape:connector-curvature="0"
+           style="stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#StickArrow_Marker_2)" />
+      </g>
+      <g
+         id="Line_3">
+        <path
+           d="m 41,-39 c 25.5959,8.826172 37.16956,10.641226 45.03454,38.4485386"
+           id="path7063"
+           inkscape:connector-curvature="0"
+           style="stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#StickArrow_Marker_2)" />
+      </g>
+      <g
+         id="Graphic_21">
+        <text
+           transform="translate(-21,-65.5)"
+           id="text7078"
+           style="fill:#808285">
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0.22459985"
+             y="21"
+             id="tspan7066"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#808285">f(</tspan>
+          <tspan
+             font-size="20"
+             font-weight="400"
+             y="21"
+             id="tspan7068"
+             style="font-weight:400;font-size:20px;font-family:AppleMyungjo;fill:#ffffff">d.</tspan>
+          <tspan
+             font-size="20"
+             font-weight="700"
+             y="21"
+             id="tspan7070"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';letter-spacing:6.141119;fill:#808285">)</tspan>
+          <tspan
+             font-size="20"
+             font-weight="400"
+             y="21"
+             id="tspan7072"
+             style="font-weight:400;font-size:20px;font-family:'Zapf Dingbats';letter-spacing:6.141119;fill:#808285">➔</tspan>
+          <tspan
+             font-size="20"
+             font-weight="600"
+             y="21"
+             id="tspan7076"
+             style="font-weight:600;font-size:20px;font-family:'PingFang SC';fill:#808285">▲</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_23">
+        <text
+           transform="translate(-7,59.5)"
+           id="text7093"
+           style="fill:#808285">
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0.44725609"
+             y="21"
+             id="tspan7081"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#808285">g(</tspan>
+          <tspan
+             font-size="20"
+             font-weight="400"
+             y="21"
+             id="tspan7083"
+             style="font-weight:400;font-size:20px;font-family:AppleMyungjo;fill:#ffffff">d.</tspan>
+          <tspan
+             font-size="20"
+             font-weight="700"
+             y="21"
+             id="tspan7085"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';letter-spacing:4.09407997;fill:#808285">)</tspan>
+          <tspan
+             font-size="20"
+             font-weight="400"
+             y="21"
+             id="tspan7087"
+             style="font-weight:400;font-size:20px;font-family:'Zapf Dingbats';letter-spacing:6.141119;fill:#808285">➔</tspan>
+          <tspan
+             font-size="20"
+             font-weight="600"
+             y="21"
+             id="tspan7091"
+             style="font-weight:600;font-size:20px;font-family:'PingFang SC';fill:#808285">◆</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <text
+     style="font-size:11.78823662px;fill:#808285;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="text3436"
+     x="-7.6097035"
+     y="-65.818474">
+    <tspan
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#808285;stroke-width:1"
+       id="tspan3430"
+       y="-45.189049"
+       x="-5.1148"
+       font-weight="400"
+       font-size="20">◼︎</tspan>
+  </text>
+  <text
+     style="font-size:11.78823662px;fill:#808285;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="text3436-9"
+     x="10.404235"
+     y="59.869682">
+    <tspan
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#808285;stroke-width:1"
+       id="tspan3430-6"
+       y="80.4991"
+       x="12.899138"
+       font-weight="400"
+       font-size="20">◼︎</tspan>
+  </text>
+</svg>

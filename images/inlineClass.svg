@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-61 -61 242 82" width="242" height="82">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-21 17:17:07 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-61" y="-61" width="242" height="82"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_12">
+        <g id="Graphic_14">
+          <rect x="100" y="-60" width="80" height="60" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_13">
+          <line x1="100" y1="-40" x2="180" y2="-40" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_9">
+        <g id="Graphic_11">
+          <rect x="-60" y="-60" width="80" height="80" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_10">
+          <line x1="-60" y1="-40" x2="20" y2="-40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Graphic_7">
+        <path d="M -7 -30 L 1 -22.5 L -7 -15 L -15 -22.5 Z" fill="#26bdcf"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M -50 10 L -42 -5 L -34 10 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="-50" y="-30" width="16" height="15" fill="black"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M -15 2.5 L -11 10 L -3 10 L 1 2.5 L -3 -5 L -11 -5 Z" fill="#26bdcf"/>
+      </g>
+      <g id="Line_3">
+        <path d="M 149 -15 C 110.20352 20.26953 47.3057 24.440567 14.809206 11.223473" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 115 -15 C 74.58789 -1.5292969 46.273104 -.1559166 12.6733 -14.50118" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

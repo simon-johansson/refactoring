@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-662 -163 288 89"
+   width="288"
+   height="89"
+   id="svg876"
+   sodipodi:docname="rgram2.svg"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\introduceParameterObject\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview878"
+     showgrid="false"
+     inkscape:zoom="4.7847222"
+     inkscape:cx="144"
+     inkscape:cy="44.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg876" />
+  <defs
+     id="defs828">
+    <font-face
+       font-family="Open Sans"
+       font-size="20"
+       panose-1="2 11 8 6 3 5 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-75.19531"
+       underline-thickness="49.80469"
+       slope="0"
+       x-height="545.89844"
+       cap-height="713.8672"
+       ascent="1068.8477"
+       descent="-292.96875"
+       font-weight="700"
+       id="font-face815">
+      <font-face-src>
+        <font-face-name
+           name="OpenSans-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="AppleMyungjo"
+       font-size="20"
+       units-per-em="1000"
+       underline-position="0"
+       underline-thickness="82.65303"
+       slope="0"
+       x-height="464.39024"
+       cap-height="728.7805"
+       ascent="869.2627"
+       descent="-318.0542"
+       font-weight="400"
+       id="font-face817">
+      <font-face-src>
+        <font-face-name
+           name="AppleMyungjo" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="PingFang SC"
+       font-size="20"
+       panose-1="2 11 8 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-150"
+       underline-thickness="80"
+       slope="0"
+       x-height="600"
+       cap-height="860"
+       ascent="1060.0021"
+       descent="-340.0007"
+       font-weight="600"
+       id="font-face819">
+      <font-face-src>
+        <font-face-name
+           name="PingFangSC-Semibold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="STIXGeneral"
+       font-size="20"
+       units-per-em="1000"
+       underline-position="-75"
+       underline-thickness="50"
+       slope="0"
+       x-height="450"
+       cap-height="662"
+       ascent="1055.0021"
+       descent="-455.0009"
+       font-weight="400"
+       id="font-face821">
+      <font-face-src>
+        <font-face-name
+           name="STIXGeneral-Regular" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       color="#ef5ba1">
+      <g
+         id="g825">
+        <path
+           d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path823" />
+      </g>
+    </marker>
+  </defs>
+  <metadata
+     id="metadata830"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-08 18:52:39 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="Canvas_1"
+     fill-opacity="1"
+     stroke-dasharray="none"
+     stroke="none"
+     stroke-opacity="1"
+     fill="none">
+    <title
+       id="title832">Canvas 1</title>
+    <rect
+       fill="white"
+       x="-662"
+       y="-163"
+       width="288"
+       height="89"
+       id="rect834" />
+    <g
+       id="Canvas_1: Layer 1">
+      <title
+         id="title836">Layer 1</title>
+      <g
+         id="Graphic_10">
+        <text
+           transform="translate(-657,-129)"
+           id="text850"
+           style="fill:#000000">
+          <tspan
+             font-size="20"
+             font-weight="700"
+             x="0.10909204"
+             y="21"
+             id="tspan838"
+             style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#000000"
+             dx="0 0 0 0.20899855 0 0 -0.20899855">f <tspan
+   style="letter-spacing:38.66475296"
+   id="tspan1569">(</tspan>
+<tspan
+   style="letter-spacing:2.0899899;fill:#808285"
+   id="tspan2069">◼︎</tspan>
+<tspan
+   style="letter-spacing:13.58491135;fill:#808285"
+   id="tspan1939">▲</tspan>
+<tspan
+   style="letter-spacing:11.49492645;fill:#808285"
+   id="tspan2071">◆</tspan>
+)</tspan>
+        </text>
+      </g>
+      <g
+         id="Group_6">
+        <g
+           id="Graphic_9">
+          <rect
+             x="-465"
+             y="-153.69584"
+             width="90"
+             height="78.69584"
+             stroke="#26bdcf"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             id="rect853" />
+        </g>
+        <g
+           id="Line_8">
+          <line
+             x1="-463.5"
+             y1="-129.15208"
+             x2="-375"
+             y2="-129.15208"
+             stroke="#26bdcf"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             id="line856" />
+        </g>
+        <g
+           id="Graphic_7">
+          <text
+             transform="translate(-430 -157)"
+             fill="#26bdcf"
+             id="text861">
+            <tspan
+               font-family="STIXGeneral"
+               font-size="20"
+               font-weight="400"
+               fill="#26bdcf"
+               x=".4"
+               y="21"
+               id="tspan859">⬟</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         id="Line_5">
+        <path
+           d="M -602 -110 L -602 -95 L -522 -95 L -522 -110"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path865" />
+      </g>
+      <g
+         id="Line_4">
+        <path
+           d="M -566 -95 C -540.67695 -59.8291 -473.791 -82.79683 -445.0453 -96.90376"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path868" />
+      </g>
+      <g
+         id="Line_3">
+        <path
+           d="M -435 -146.49196 C -498.54714 -163.67014 -611.278 -165.9045 -626.7818 -127.80023"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path871" />
+      </g>
+    </g>
+  </g>
+</svg>

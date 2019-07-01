@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-618 51 239 179"
+   width="239"
+   height="179"
+   id="svg8073"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\replaceNestedConditionalWithGuardClauses\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview8075"
+     showgrid="false"
+     inkscape:zoom="2.4016736"
+     inkscape:cx="119.5"
+     inkscape:cy="89.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8073" />
+  <defs
+     id="defs7980">
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       color="#ef5ba1">
+      <g
+         id="g7973">
+        <path
+           d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path7971" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Inconsolata"
+       font-size="16"
+       panose-1="2 11 6 9 3 0 3 0 0 0"
+       units-per-em="1000"
+       underline-position="-125"
+       underline-thickness="50"
+       slope="0"
+       x-height="456"
+       cap-height="623"
+       ascent="834.0017"
+       descent="-176.00036"
+       font-weight="500"
+       id="font-face7976">
+      <font-face-src>
+        <font-face-name
+           name="Inconsolata" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="AppleMyungjo"
+       font-size="16"
+       units-per-em="1000"
+       underline-position="0"
+       underline-thickness="88.55681"
+       slope="0"
+       x-height="464.39024"
+       cap-height="728.7805"
+       ascent="869.2627"
+       descent="-318.0542"
+       font-weight="400"
+       id="font-face7978">
+      <font-face-src>
+        <font-face-name
+           name="AppleMyungjo" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata
+     id="metadata7982"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-26 15:11:50 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="Canvas_1"
+     fill-opacity="1"
+     stroke-dasharray="none"
+     stroke="none"
+     stroke-opacity="1"
+     fill="none">
+    <title
+       id="title7984">Canvas 1</title>
+    <rect
+       fill="white"
+       x="-618"
+       y="51"
+       width="239"
+       height="179"
+       id="rect7986" />
+    <g
+       id="Canvas_1: Layer 1">
+      <title
+         id="title7988">Layer 1</title>
+      <g
+         id="Line_19">
+        <path
+           d="M -432.56627 108 C -453.69517 96.55518 -520.8884 100.61142 -557.13255 103.11036"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path7990" />
+      </g>
+      <g
+         id="Graphic_18">
+        <rect
+           x="-594"
+           y="81"
+           width="71"
+           height="10"
+           fill="black"
+           id="rect7993" />
+      </g>
+      <g
+         id="Graphic_17">
+        <text
+           transform="translate(-613,56.5)"
+           id="text8002"
+           style="fill:#000000">
+          <tspan
+             font-size="16"
+             font-weight="500"
+             x="0"
+             y="14"
+             id="tspan7996"
+             style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#000000">if (</tspan>
+          <tspan
+             font-size="16"
+             font-weight="400"
+             y="14"
+             id="tspan7998"
+             style="font-weight:400;font-size:16px;font-family:AppleMyungjo;fill:#ffffff">d.</tspan>
+          <tspan
+             font-size="16"
+             font-weight="500"
+             y="14"
+             id="tspan8000"
+             style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#000000">)</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_16">
+        <text
+           transform="translate(-613 95.28)"
+           fill="#808285"
+           id="text8007">
+          <tspan
+             font-family="Inconsolata"
+             font-size="16"
+             font-weight="500"
+             fill="#808285"
+             x="0"
+             y="13"
+             id="tspan8005">else</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_15">
+        <rect
+           x="-570"
+           y="137"
+           width="71"
+           height="10"
+           fill="black"
+           id="rect8010" />
+      </g>
+      <g
+         id="Graphic_14">
+        <text
+           transform="translate(-589,112.5)"
+           id="text8019"
+           style="fill:#000000">
+          <tspan
+             font-size="16"
+             font-weight="500"
+             x="0"
+             y="14"
+             id="tspan8013"
+             style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#000000">if (</tspan>
+          <tspan
+             font-size="16"
+             font-weight="400"
+             y="14"
+             id="tspan8015"
+             style="font-weight:400;font-size:16px;font-family:AppleMyungjo;fill:#ffffff">d.</tspan>
+          <tspan
+             font-size="16"
+             font-weight="500"
+             y="14"
+             id="tspan8017"
+             style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#000000">)</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_13">
+        <text
+           transform="translate(-589 150.28)"
+           fill="#808285"
+           id="text8024">
+          <tspan
+             font-family="Inconsolata"
+             font-size="16"
+             font-weight="500"
+             fill="#808285"
+             x="0"
+             y="13"
+             id="tspan8022">else</tspan>
+        </text>
+      </g>
+      <g
+         id="Line_12">
+        <path
+           d="M -443 163 C -463.8758 151.69229 -508.206 156.02977 -539.1368 158.66687"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path8027" />
+      </g>
+      <g
+         id="Line_11">
+        <line
+           x1="-594"
+           y1="122"
+           x2="-601.1"
+           y2="122"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="line8030" />
+      </g>
+      <g
+         id="Graphic_10">
+        <rect
+           x="-535"
+           y="191.60413"
+           width="71"
+           height="10"
+           fill="black"
+           id="rect8033" />
+      </g>
+      <g
+         id="Graphic_9">
+        <text
+           transform="translate(-554,167.10413)"
+           id="text8042"
+           style="fill:#000000">
+          <tspan
+             font-size="16"
+             font-weight="500"
+             x="0"
+             y="14"
+             id="tspan8036"
+             style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#000000">if (</tspan>
+          <tspan
+             font-size="16"
+             font-weight="400"
+             y="14"
+             id="tspan8038"
+             style="font-weight:400;font-size:16px;font-family:AppleMyungjo;fill:#ffffff">d.</tspan>
+          <tspan
+             font-size="16"
+             font-weight="500"
+             y="14"
+             id="tspan8040"
+             style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#000000">)</tspan>
+        </text>
+      </g>
+      <g
+         id="Graphic_8">
+        <text
+           transform="translate(-554 206.28)"
+           fill="#808285"
+           id="text8047">
+          <tspan
+             font-family="Inconsolata"
+             font-size="16"
+             font-weight="500"
+             fill="#808285"
+             x="0"
+             y="13"
+             id="tspan8045">else</tspan>
+        </text>
+      </g>
+      <g
+         id="Line_7">
+        <line
+           x1="-559"
+           y1="176.60413"
+           x2="-601.1"
+           y2="176.60413"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="line8050" />
+      </g>
+      <g
+         id="Line_6">
+        <path
+           d="M -408 217 C -428.8758 205.69229 -473.206 210.02977 -504.1368 212.66687"
+           marker-end="url(#StickArrow_Marker)"
+           stroke="#ef5ba1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path8053" />
+      </g>
+      <g
+         id="Graphic_20">
+        <path
+           d="M -409.85714 109.28571 L -409.85714 123 L -403 123 L -403 109.28571 L -403 104.64808 L -403 102.42857 L -413.2857 102.42857 L -413.2857 99 L -427 105.85714 L -413.2857 112.71429 L -413.2857 109.28571 Z"
+           fill="white"
+           id="path8056" />
+        <path
+           d="M -409.85714 109.28571 L -409.85714 123 L -403 123 L -403 109.28571 L -403 104.64808 L -403 102.42857 L -413.2857 102.42857 L -413.2857 99 L -427 105.85714 L -413.2857 112.71429 L -413.2857 109.28571 Z"
+           stroke="#26bdcf"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path8058" />
+      </g>
+      <g
+         id="Graphic_21">
+        <path
+           d="M -418.85714 164.28571 L -418.85714 178 L -412 178 L -412 164.28571 L -412 159.64808 L -412 157.42857 L -422.2857 157.42857 L -422.2857 154 L -436 160.85714 L -422.2857 167.71429 L -422.2857 164.28571 Z"
+           fill="white"
+           id="path8061" />
+        <path
+           d="M -418.85714 164.28571 L -418.85714 178 L -412 178 L -412 164.28571 L -412 159.64808 L -412 157.42857 L -422.2857 157.42857 L -422.2857 154 L -436 160.85714 L -422.2857 167.71429 L -422.2857 164.28571 Z"
+           stroke="#26bdcf"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path8063" />
+      </g>
+      <g
+         id="Graphic_22">
+        <path
+           d="M -386.85714 215.28571 L -386.85714 229 L -380 229 L -380 215.28571 L -380 210.64808 L -380 208.42857 L -390.2857 208.42857 L -390.2857 205 L -404 211.85714 L -390.2857 218.71429 L -390.2857 215.28571 Z"
+           fill="white"
+           id="path8066" />
+        <path
+           d="M -386.85714 215.28571 L -386.85714 229 L -380 229 L -380 215.28571 L -380 210.64808 L -380 208.42857 L -390.2857 208.42857 L -390.2857 205 L -404 211.85714 L -390.2857 218.71429 L -390.2857 215.28571 Z"
+           stroke="#26bdcf"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="path8068" />
+      </g>
+    </g>
+  </g>
+  <text
+     style="font-size:11.78823662px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;"
+     id="text3436"
+     x="-583.52429"
+     y="50.763409">
+    <tspan
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#000000;stroke-width:1;"
+       id="tspan3430"
+       y="71.392822"
+       x="-581.02942"
+       font-weight="400"
+       font-size="20">◼︎</tspan>
+  </text>
+  <text
+     y="106.01254"
+     x="-559.79053"
+     id="text8658"
+     style="font-size:11.78823662px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1">
+    <tspan
+       font-size="20"
+       font-weight="400"
+       x="-557.29565"
+       y="126.64194"
+       id="tspan8656"
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#000000;stroke-width:1">◼︎</tspan>
+  </text>
+  <text
+     style="font-size:11.78823662px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="text8662"
+     x="-524.81445"
+     y="161.17978">
+    <tspan
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#000000;stroke-width:1"
+       id="tspan8660"
+       y="181.80917"
+       x="-522.31958"
+       font-weight="400"
+       font-size="20">◼︎</tspan>
+  </text>
+</svg>
