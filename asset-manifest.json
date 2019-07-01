@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/refactoring/static/css/main.31bec733.chunk.css",
-    "main.js": "/refactoring/static/js/main.62771815.chunk.js",
-    "main.js.map": "/refactoring/static/js/main.62771815.chunk.js.map",
+    "main.js": "/refactoring/static/js/main.50da0991.chunk.js",
+    "main.js.map": "/refactoring/static/js/main.50da0991.chunk.js.map",
     "runtime~main.js": "/refactoring/static/js/runtime~main.956d6bd7.js",
     "runtime~main.js.map": "/refactoring/static/js/runtime~main.956d6bd7.js.map",
     "static/js/2.49c41374.chunk.js": "/refactoring/static/js/2.49c41374.chunk.js",
     "static/js/2.49c41374.chunk.js.map": "/refactoring/static/js/2.49c41374.chunk.js.map",
     "index.html": "/refactoring/index.html",
-    "precache-manifest.cebbec7aa5003132755ebfb238d6c61a.js": "/refactoring/precache-manifest.cebbec7aa5003132755ebfb238d6c61a.js",
+    "precache-manifest.55f6b1e8e196e129898713273295a1fb.js": "/refactoring/precache-manifest.55f6b1e8e196e129898713273295a1fb.js",
     "service-worker.js": "/refactoring/service-worker.js",
     "static/css/main.31bec733.chunk.css.map": "/refactoring/static/css/main.31bec733.chunk.css.map"
   }
