@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-1035 -104 174 58"
+   width="174"
+   height="58"
+   id="svg10830"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\replaceParameterWithQuery\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview10832"
+     showgrid="false"
+     inkscape:zoom="3.2988506"
+     inkscape:cx="87"
+     inkscape:cy="29"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10830" />
+  <defs
+     id="defs10800">
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       color="#ef5ba1">
+      <g
+         id="g10793">
+        <path
+           d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path10791" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Open Sans"
+       font-size="20"
+       panose-1="2 11 8 6 3 5 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-75.19531"
+       underline-thickness="49.80469"
+       slope="0"
+       x-height="545.89844"
+       cap-height="713.8672"
+       ascent="1068.8477"
+       descent="-292.96875"
+       font-weight="700"
+       id="font-face10796">
+      <font-face-src>
+        <font-face-name
+           name="OpenSans-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="PingFang SC"
+       font-size="20"
+       panose-1="2 11 8 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-150"
+       underline-thickness="80"
+       slope="0"
+       x-height="600"
+       cap-height="860"
+       ascent="1060.0021"
+       descent="-340.0007"
+       font-weight="600"
+       id="font-face10798">
+      <font-face-src>
+        <font-face-name
+           name="PingFangSC-Semibold" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata
+     id="metadata10802"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-14 18:47:23 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="rect10806"
+     height="58"
+     width="174"
+     y="-104"
+     x="-1035" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#StickArrow_Marker)"
+     inkscape:connector-curvature="0"
+     id="path10810"
+     d="m -979,-65 c 0,-25.68149 39.2764,-56.8232 48.2596,-22.78579" />
+  <text
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text10825"
+     x="-1030"
+     y="-80.090523">
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#000000"
+       id="tspan10813"
+       y="-59.090519"
+       x="-1029.9816"
+       font-weight="700"
+       font-size="20">f <tspan
+   style="letter-spacing:5.45644808"
+   id="tspan11426">(</tspan>
+</tspan>
+    <tspan
+       style="font-weight:600;font-size:20px;font-family:'PingFang SC';letter-spacing:18.49128914;fill:#000000"
+       id="tspan10815"
+       y="-59.090519"
+       font-weight="600"
+       font-size="20">▲</tspan>
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';letter-spacing:1.84407556;fill:#000000"
+       id="tspan10819"
+       y="-59.090519"
+       font-weight="700"
+       font-size="20">) {</tspan>
+    <tspan
+       style="font-weight:600;font-size:20px;font-family:'PingFang SC';fill:#26bdcf"
+       id="tspan10821"
+       y="-59.090519"
+       font-weight="600"
+       font-size="20">g(▲<tspan
+   style="letter-spacing:18.79442406"
+   id="tspan11428">)</tspan>
+</tspan>
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';letter-spacing:0.60627174;fill:#000000"
+       id="tspan10823"
+       y="-59.090519"
+       font-weight="700"
+       font-size="20">}</tspan>
+  </text>
+</svg>

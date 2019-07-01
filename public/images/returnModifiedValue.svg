@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-756 44 127 102" width="127" height="102">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#808285">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="#808285">
+      <g>
+        <path d="M -4.8 0 L 0 0 M 0 1.8 L -4.8 0 L 0 -1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#808285">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-26 15:10:42 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-756" y="44" width="127" height="102"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_10">
+        <rect x="-755" y="45" width="40" height="21.763222" fill="white"/>
+        <rect x="-755" y="45" width="40" height="21.763222" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M -680 65 L -680 85 L -670 85 L -670 65 L -670 58.23678 L -670 55 L -685 55 L -685 50 L -705 60 L -685 70 L -685 65 Z" fill="white"/>
+        <path d="M -680 65 L -680 85 L -670 85 L -670 65 L -670 58.23678 L -670 55 L -685 55 L -685 50 L -705 60 L -685 70 L -685 65 Z" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M -677.5 95 C -665.625 95 -630 95 -630 120 C -630 145 -665.625 145 -677.5 145 C -689.375 145 -677.5 145 -677.5 145 C -685.366 145 -725 145 -725 120 C -725 95 -689.375 95 -677.5 95 Z" fill="white"/>
+        <path d="M -677.5 95 C -665.625 95 -630 95 -630 120 C -630 145 -665.625 145 -677.5 145 C -689.375 145 -677.5 145 -677.5 145 C -685.366 145 -725 145 -725 120 C -725 95 -689.375 95 -677.5 95 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_7">
+        <line x1="-720.4288" y1="77.452945" x2="-701.5315" y2="105.42867" marker-end="url(#StickArrow_Marker)" marker-start="url(#StickArrow_Marker_2)" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_6">
+        <rect x="-700" y="116.61839" width="20" height="11.763222" fill="white"/>
+        <rect x="-700" y="116.61839" width="20" height="11.763222" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_3">
+        <path d="M -690 111.76322 C -682.375 101.27885 -683.4711 94.12987 -686.63845 82.45905" marker-end="url(#StickArrow_Marker_3)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_11">
+        <line x1="-654" y1="123" x2="-666.60124" y2="122.82498" marker-end="url(#StickArrow_Marker_4)" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

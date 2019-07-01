@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-836 -291 313 242" width="313" height="242">
+  <defs>
+    <font-face font-family="Inconsolata" font-size="16" panose-1="2 11 6 9 3 0 3 0 0 0" units-per-em="1000" underline-position="-125" underline-thickness="50" slope="0" x-height="456" cap-height="623" ascent="834.0017" descent="-176.00036" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Inconsolata"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="UMLInheritance_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -6 10 12" markerWidth="10" markerHeight="12" color="black">
+      <g>
+        <path d="M 7.2 0 L 0 -4.2 L 0 4.2 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-22 19:39:52 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-836" y="-291" width="313" height="242"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_32">
+        <rect x="-747.5" y="-290" width="135" height="90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_34">
+        <path d="M -726 -265 L -649 -265 C -639.892 -265 -632.5 -253.14984 -632.5 -238.54875 C -632.5 -223.94766 -639.892 -212.0975 -649 -212.0975 L -726 -212.0975 C -735.108 -212.0975 -742.5 -223.94766 -742.5 -238.54875 C -742.5 -253.14984 -735.108 -265 -726 -265 Z" fill="white"/>
+        <path d="M -726 -265 L -649 -265 C -639.892 -265 -632.5 -253.14984 -632.5 -238.54875 C -632.5 -223.94766 -639.892 -212.0975 -649 -212.0975 L -726 -212.0975 C -735.108 -212.0975 -742.5 -223.94766 -742.5 -238.54875 C -742.5 -253.14984 -735.108 -265 -726 -265 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_17">
+        <rect x="-835" y="-140" width="135" height="90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_16">
+        <line x1="-835" y1="-130" x2="-700" y2="-130" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <path d="M -813.5 -115 L -736.5 -115 C -727.392 -115 -720 -103.14984 -720 -88.54875 C -720 -73.94766 -727.392 -62.097506 -736.5 -62.097506 L -813.5 -62.097506 C -822.608 -62.097506 -830 -73.94766 -830 -88.54875 C -830 -103.14984 -822.608 -115 -813.5 -115 Z" fill="white"/>
+        <path d="M -813.5 -115 L -736.5 -115 C -727.392 -115 -720 -103.14984 -720 -88.54875 C -720 -73.94766 -727.392 -62.097506 -736.5 -62.097506 L -813.5 -62.097506 C -822.608 -62.097506 -830 -73.94766 -830 -88.54875 C -830 -103.14984 -822.608 -115 -813.5 -115 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="-815" y="-80" width="70" height="10" fill="black"/>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(-820 -115.72)" fill="black">
+          <tspan font-family="Inconsolata" font-size="16" font-weight="500" fill="black" x="0" y="13">constructor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <rect x="-660" y="-140" width="135" height="90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_27">
+        <line x1="-660" y1="-130" x2="-525" y2="-130" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_28">
+        <path d="M -638.5 -115 L -561.5 -115 C -552.392 -115 -545 -103.14984 -545 -88.54875 C -545 -73.94766 -552.392 -62.097506 -561.5 -62.097506 L -638.5 -62.097506 C -647.608 -62.097506 -655 -73.94766 -655 -88.54875 C -655 -103.14984 -647.608 -115 -638.5 -115 Z" fill="white"/>
+        <path d="M -638.5 -115 L -561.5 -115 C -552.392 -115 -545 -103.14984 -545 -88.54875 C -545 -73.94766 -552.392 -62.097506 -561.5 -62.097506 L -638.5 -62.097506 C -647.608 -62.097506 -655 -73.94766 -655 -88.54875 C -655 -103.14984 -647.608 -115 -638.5 -115 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_29">
+        <rect x="-640" y="-80" width="40" height="10" fill="black"/>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(-645 -115.72)" fill="black">
+          <tspan font-family="Inconsolata" font-size="16" font-weight="500" fill="black" x="0" y="13">constructor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <rect x="-595" y="-80" width="25" height="10" fill="black"/>
+      </g>
+      <g id="Line_33">
+        <line x1="-747.5" y1="-280" x2="-612.5" y2="-280" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_36">
+        <text transform="translate(-732.5 -265.72)" fill="black">
+          <tspan font-family="Inconsolata" font-size="16" font-weight="500" fill="black" x="0" y="13">constructor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <rect x="-730" y="-240" width="65" height="10" fill="#26bdcf"/>
+      </g>
+      <g id="Line_38">
+        <path d="M -767.5 -140 L -767.5 -160 L -680 -160 L -680 -182.6" marker-end="url(#UMLInheritance_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_39">
+        <path d="M -592.5 -140 L -592.5 -160 L -680 -160 L -680 -182.6" marker-end="url(#UMLInheritance_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_3">
+        <path d="M -606.6867 -95 C -598.1105 -120.72852 -629.9258 -194.265 -650.764 -220.9919" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_40">
+        <path d="M -781.7477 -95 C -784.6198 -130.32422 -745.76505 -189.0447 -724.2452 -219.50802" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

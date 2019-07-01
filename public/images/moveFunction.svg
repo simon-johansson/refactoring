@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-895 119 261 50" width="261" height="50">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-22 15:25:19 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-895" y="119" width="261" height="50"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_11">
+        <path d="M -830 135 C -777.28625 119.93893 -761.4333 121.89055 -736.5335 129.75159" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_10">
+        <rect x="-894" y="120" width="74" height="47.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="-709" y="120" width="74" height="47.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M -707.5 128 C -703.125 128 -690 128 -690 139 C -690 150 -703.125 150 -707.5 150 C -711.875 150 -707.5 150 -707.5 150 C -710.398 150 -725 150 -725 139 C -725 128 -711.875 128 -707.5 128 Z" fill="white"/>
+        <path d="M -707.5 128 C -703.125 128 -690 128 -690 139 C -690 150 -703.125 150 -707.5 150 C -711.875 150 -707.5 150 -707.5 150 C -710.398 150 -725 150 -725 139 C -725 128 -711.875 128 -707.5 128 Z" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

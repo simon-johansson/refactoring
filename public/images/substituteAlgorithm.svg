@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-732 -58 390 151" width="390" height="151">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Open Sans" font-size="20" panose-1="2 11 8 6 3 5 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="545.89844" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="700">
+      <font-face-src>
+        <font-face-name name="OpenSans-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-02-13 13:58:57 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-732" y="-58" width="390" height="151"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_6">
+        <g id="Line_16">
+          <line x1="-505" y1="-20" x2="-433.46154" y2="-20" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_15">
+          <line x1="-510" y1="30" x2="-433.0769" y2="30" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_14">
+          <line x1="-510" y1="40" x2="-433.0769" y2="40" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_13">
+          <line x1="-495" y1="50" x2="-433.46154" y2="50" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_12">
+          <line x1="-510" y1="60" x2="-433.0769" y2="60" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_11">
+          <line x1="-495" y1="-10" x2="-433.46154" y2="-10" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_10">
+          <line x1="-495" y1="0" x2="-433.46154" y2="0" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_9">
+          <line x1="-495" y1="10" x2="-433.46154" y2="10" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_8">
+          <line x1="-505" y1="20" x2="-433.46154" y2="20" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_4">
+        <path d="M -430 -25 L -420 -25 L -420 65 L -433.0769 65" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_22">
+        <path d="M -420 31.13669 C -407.0083 38.81332 -379.01356 39.84112 -354.2578 28.00494" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(-555 -52.5)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="700" fill="black" x="2.7148438" y="21">f () { </tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(-518 60.5)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="700" fill="black" x=".05957031" y="21">}</tspan>
+        </text>
+      </g>
+      <g id="Group_40">
+        <g id="Line_39">
+          <line x1="-730" y1="-20" x2="-658.4615" y2="-20" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_38">
+          <line x1="-720" y1="-10" x2="-658.4615" y2="-10" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_37">
+          <line x1="-720" y1="0" x2="-658.4615" y2="0" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Line_36">
+          <line x1="-720" y1="10" x2="-658.4615" y2="10" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_41">
+        <path d="M -642.4929 1.1366911 C -618.13054 -8.731896 -556.4641 -13.781761 -525.34094 3.2874653" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

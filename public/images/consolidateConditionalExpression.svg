@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-213 -63 125 134"
+   width="125"
+   height="134"
+   id="svg4907"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\consolidateConditionalExpression\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview4909"
+     showgrid="false"
+     inkscape:zoom="4.9780317"
+     inkscape:cx="62.5"
+     inkscape:cy="67"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4907" />
+  <defs
+     id="defs4850">
+    <font-face
+       font-family="Inconsolata"
+       font-size="16"
+       panose-1="2 11 6 9 3 0 3 0 0 0"
+       units-per-em="1000"
+       underline-position="-125"
+       underline-thickness="50"
+       slope="0"
+       x-height="456"
+       cap-height="623"
+       ascent="834.0017"
+       descent="-176.00036"
+       font-weight="500"
+       id="font-face4835">
+      <font-face-src>
+        <font-face-name
+           name="Inconsolata" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Apple SD Gothic Neo"
+       font-size="16"
+       panose-1="2 0 3 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-75"
+       underline-thickness="50"
+       slope="0"
+       x-height="503"
+       cap-height="701"
+       ascent="900.0018"
+       descent="-300.0006"
+       font-weight="500"
+       id="font-face4837">
+      <font-face-src>
+        <font-face-name
+           name="AppleSDGothicNeo-Medium" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Apple Symbols"
+       font-size="16"
+       panose-1="2 0 0 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-73.24219"
+       underline-thickness="48.828125"
+       slope="0"
+       x-height="392.57812"
+       cap-height="546.3867"
+       ascent="666.5039"
+       descent="-250"
+       font-weight="400"
+       id="font-face4839">
+      <font-face-src>
+        <font-face-name
+           name="AppleSymbols" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="PingFang SC"
+       font-size="16"
+       panose-1="2 11 6 0 0 0 0 0 0 0"
+       units-per-em="1000"
+       underline-position="-150"
+       underline-thickness="78"
+       slope="0"
+       x-height="600"
+       cap-height="860"
+       ascent="1060.0021"
+       descent="-340.0007"
+       font-weight="500"
+       id="font-face4841">
+      <font-face-src>
+        <font-face-name
+           name="PingFangSC-Medium" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Lucida Grande"
+       font-size="16"
+       panose-1="2 11 7 0 4 5 2 2 2 4"
+       units-per-em="1000"
+       underline-position="-97.65625"
+       underline-thickness="48.828125"
+       slope="0"
+       x-height="536.1328"
+       cap-height="722.65625"
+       ascent="966.7969"
+       descent="-210.9375"
+       font-weight="700"
+       id="font-face4843">
+      <font-face-src>
+        <font-face-name
+           name="LucidaGrande-Bold" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       color="#ef5ba1">
+      <g
+         id="g4847">
+        <path
+           d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path4845" />
+      </g>
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4852"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-06 20:57:20 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4856"
+     height="134"
+     width="125"
+     y="-63"
+     x="-213" />
+  <text
+     style="fill:#808285;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text4886"
+     x="-208"
+     y="-57.503906">
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#808285"
+       id="tspan4860"
+       y="-43.503906"
+       x="-203.03719"
+       font-weight="500"
+       font-size="16">if (</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:'Apple SD Gothic Neo';fill:#ffffff"
+       id="tspan4862"
+       y="-43.503906"
+       font-weight="500"
+       font-size="16">U</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#808285"
+       id="tspan4864"
+       y="-43.503906"
+       font-weight="500"
+       font-size="16">)<tspan
+   style="fill:#ffffff"
+   id="tspan6171">.</tspan>
+</tspan>
+    <tspan
+       style="font-weight:400;font-size:16px;font-family:'Apple Symbols';fill:#808285"
+       id="tspan4866"
+       y="-43.503906"
+       font-weight="400"
+       font-size="16">⦿</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#808285"
+       id="tspan4868"
+       y="-21.167969"
+       x="-204.11719"
+       font-weight="500"
+       font-size="16">if (</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:'PingFang SC';fill:#808285"
+       id="tspan4870"
+       y="-21.167969"
+       font-weight="500"
+       font-size="16">△</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;letter-spacing:8.65888977;fill:#808285"
+       id="tspan4872"
+       y="-21.167969"
+       font-weight="500"
+       font-size="16">)</tspan>
+    <tspan
+       style="font-weight:400;font-size:16px;font-family:'Apple Symbols';letter-spacing:0.20278446;fill:#808285"
+       id="tspan4874"
+       y="-21.167969"
+       font-weight="400"
+       font-size="16">⦿</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#808285"
+       id="tspan4876"
+       y="-0.83203101"
+       x="-203.95703"
+       font-weight="500"
+       font-size="16">if (</tspan>
+    <tspan
+       style="font-weight:700;font-size:16px;font-family:'Lucida Grande';fill:#808285"
+       id="tspan4878"
+       y="-0.83203101"
+       font-weight="700"
+       font-size="16">▼</tspan>
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;letter-spacing:8.37499142;fill:#808285"
+       id="tspan4880"
+       y="-0.83203101"
+       font-weight="500"
+       font-size="16">)</tspan>
+    <tspan
+       style="font-weight:400;font-size:16px;font-family:'Apple Symbols';fill:#808285"
+       id="tspan4882"
+       y="-0.83203101"
+       font-weight="400"
+       font-size="16">⦿</tspan>
+  </text>
+  <text
+     style="fill:#26bdcf;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text4893"
+     x="-177"
+     y="47.332031">
+    <tspan
+       style="font-weight:500;font-size:16px;font-family:Inconsolata;fill:#26bdcf"
+       id="tspan4889"
+       y="60.332031"
+       x="-176.61719"
+       font-weight="500"
+       font-size="16">if (p())<tspan
+   style="fill:#ffffff"
+   id="tspan6169">.</tspan>
+</tspan>
+    <tspan
+       style="font-weight:400;font-size:16px;font-family:'Apple Symbols';letter-spacing:0.33143944;fill:#26bdcf"
+       id="tspan4891"
+       y="60.332031"
+       font-weight="400"
+       font-size="16">⦿</tspan>
+  </text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#StickArrow_Marker)"
+     inkscape:connector-curvature="0"
+     id="path4896"
+     d="m -159,-3 c 17.41016,1.7410156 25.7269,12.575437 26.92922,39.099833" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path4899"
+     d="m -155,-24 c 20,2 24.08283,22 23.08283,58" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path4902"
+     d="m -155,-48 c 20,2 24.08283,22 23.08283,58" />
+  <text
+     style="font-size:10.88965797px;fill:#808285;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="text3436"
+     x="-174.88332"
+     y="-61.893925">
+    <tspan
+       style="font-weight:400;font-size:18.14942932px;font-family:AppleMyungjo;letter-spacing:-1.59577954;fill:#808285;stroke-width:1"
+       id="tspan3430"
+       y="-42.837025"
+       x="-172.57858"
+       font-weight="400"
+       font-size="20">◼︎</tspan>
+  </text>
+</svg>

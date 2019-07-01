@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="80 -45 199.01424 100"
+   width="199.01424"
+   height="100"
+   id="svg6240"
+   sodipodi:docname="rgram2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\00\fowler-2018\catalog\combineFunctionsIntoClass\rgram2-600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview6242"
+     showgrid="false"
+     inkscape:zoom="4.0997908"
+     inkscape:cx="54.299483"
+     inkscape:cy="52.804161"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6240"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs6182">
+    <font-face
+       font-family="Open Sans"
+       font-size="20"
+       panose-1="2 11 8 6 3 5 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-75.19531"
+       underline-thickness="49.80469"
+       slope="0"
+       x-height="545.89844"
+       cap-height="713.8672"
+       ascent="1068.8477"
+       descent="-292.96875"
+       font-weight="700"
+       id="font-face6173"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="OpenSans-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="AppleMyungjo"
+       font-size="20"
+       units-per-em="1000"
+       underline-position="0"
+       underline-thickness="82.65303"
+       slope="0"
+       x-height="464.39024"
+       cap-height="728.7805"
+       ascent="869.2627"
+       descent="-318.0542"
+       font-weight="400"
+       id="font-face6175"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="AppleMyungjo" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="StickArrow_Marker"
+       stroke-miterlimit="10"
+       viewBox="-1 -3 7 6"
+       markerWidth="7"
+       markerHeight="6"
+       style="color:#ef5ba1;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g6179">
+        <path
+           d="M 4.8,0 H 0 M 0,-1.8 4.8,0 0,1.8"
+           id="path6177"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+  </defs>
+  <metadata
+     id="metadata6184"> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-06 20:49:01 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6188"
+     height="99"
+     width="198"
+     y="-44"
+     x="80" />
+  <text
+     style="fill:#808285;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text6198"
+     x="86"
+     y="-41.304161">
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#808285"
+       id="tspan6192"
+       y="-20.304161"
+       x="86.360344"
+       font-weight="700"
+       font-size="20">f(</tspan>
+    <tspan
+       style="font-weight:400;font-size:20px;font-family:AppleMyungjo;fill:#ffffff"
+       id="tspan6194"
+       y="-20.304161"
+       font-weight="400"
+       font-size="20">d.</tspan>
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#808285"
+       id="tspan6196"
+       y="-20.304161"
+       font-weight="700"
+       font-size="20">)</tspan>
+  </text>
+  <text
+     style="fill:#808285;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text6207"
+     x="94"
+     y="19.195839">
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#808285"
+       id="tspan6201"
+       y="40.195839"
+       x="94.083"
+       font-weight="700"
+       font-size="20">g(</tspan>
+    <tspan
+       style="font-weight:400;font-size:20px;font-family:AppleMyungjo;fill:#ffffff"
+       id="tspan6203"
+       y="40.195839"
+       font-weight="400"
+       font-size="20">d.</tspan>
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#808285"
+       id="tspan6205"
+       y="40.195839"
+       font-weight="700"
+       font-size="20">)</tspan>
+  </text>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_28"
+     transform="translate(1,-2.3041611)">
+    <rect
+       style="stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6210"
+       height="78.695839"
+       width="90"
+       y="-41.695839"
+       x="187" />
+  </g>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Line_27"
+     transform="translate(1,-2.3041611)">
+    <line
+       style="stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="line6213"
+       y2="-17.152081"
+       x2="277"
+       y1="-17.152081"
+       x1="188.5" />
+  </g>
+  <text
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text6219"
+     x="223"
+     y="-40.804161">
+    <tspan
+       style="font-weight:400;font-size:20px;font-family:AppleMyungjo;fill:#000000"
+       id="tspan6217"
+       y="-23.804161"
+       x="223.00975"
+       font-weight="400"
+       font-size="20" />
+  </text>
+  <text
+     style="fill:#26bdcf;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text6224"
+     x="206.5"
+     y="-18.152081">
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#26bdcf"
+       id="tspan6222"
+       y="2.847919"
+       x="206.85059"
+       font-weight="700"
+       font-size="20">f()</tspan>
+  </text>
+  <text
+     style="fill:#26bdcf;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="text6229"
+     x="205"
+     y="2.1958389">
+    <tspan
+       style="font-weight:700;font-size:20px;font-family:'Open Sans';fill:#26bdcf"
+       id="tspan6227"
+       y="23.195839"
+       x="205.07324"
+       font-weight="700"
+       font-size="20">g()</tspan>
+  </text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#StickArrow_Marker)"
+     inkscape:connector-curvature="0"
+     id="path6232"
+     d="m 133,-28.776288 c 45.8166,-0.595846 53.1845,6.772127 61.26983,16.209252" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ef5ba1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#StickArrow_Marker)"
+     inkscape:connector-curvature="0"
+     id="path6235"
+     d="m 144,29.928325 c 19.9038,-2.574526 35.60482,-5.752486 48.13458,-7.298906" />
+  <text
+     style="font-size:11.78823662px;fill:#808285;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="text3436"
+     x="99.562683"
+     y="-42.1119">
+    <tspan
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#808285;stroke-width:1"
+       id="tspan3430"
+       y="-21.482487"
+       x="102.05759"
+       font-weight="400"
+       font-size="20">◼︎</tspan>
+  </text>
+  <text
+     y="18.424606"
+     x="111.56268"
+     id="text6904"
+     style="font-size:11.78823662px;fill:#808285;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1">
+    <tspan
+       font-size="20"
+       font-weight="400"
+       x="114.05758"
+       y="39.05402"
+       id="tspan6902"
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#808285;stroke-width:1">◼︎</tspan>
+  </text>
+  <text
+     y="-48.1119"
+     x="223.80659"
+     id="text6908"
+     style="font-size:11.78823662px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1">
+    <tspan
+       font-size="20"
+       font-weight="400"
+       x="226.3015"
+       y="-27.482487"
+       id="tspan6906"
+       style="font-weight:400;font-size:19.64706039px;font-family:AppleMyungjo;letter-spacing:-1.72745812;fill:#000000;stroke-width:1">◼︎</tspan>
+  </text>
+</svg>

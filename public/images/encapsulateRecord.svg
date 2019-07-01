@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-736 -126 218 122" width="218" height="122">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ef5ba1">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#808285">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#26bdcf">
+      <g>
+        <path d="M 4.8 0 L 0 0 M 0 -1.8 L 4.8 0 L 0 1.8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2017-11-26 14:59:34 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-736" y="-126" width="218" height="122"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_33">
+        <rect x="-735" y="-125" width="90" height="120" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group_17">
+        <g id="Group_30">
+          <g id="Graphic_32">
+            <rect x="-720" y="-90" width="20" height="10" fill="white"/>
+            <rect x="-720" y="-90" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_31">
+            <rect x="-700" y="-90" width="20" height="10" fill="white"/>
+            <rect x="-700" y="-90" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_27">
+          <g id="Graphic_29">
+            <rect x="-720" y="-80" width="20" height="10" fill="white"/>
+            <rect x="-720" y="-80" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_28">
+            <rect x="-700" y="-80" width="20" height="10" fill="white"/>
+            <rect x="-700" y="-80" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_24">
+          <g id="Graphic_26">
+            <rect x="-720" y="-70" width="20" height="10" fill="white"/>
+            <rect x="-720" y="-70" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_25">
+            <rect x="-700" y="-70" width="20" height="10" fill="white"/>
+            <rect x="-700" y="-70" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_21">
+          <g id="Graphic_23">
+            <rect x="-720" y="-60" width="20" height="10" fill="white"/>
+            <rect x="-720" y="-60" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_22">
+            <rect x="-700" y="-60" width="20" height="10" fill="white"/>
+            <rect x="-700" y="-60" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_18">
+          <g id="Graphic_20">
+            <rect x="-720" y="-50" width="20" height="10" fill="white"/>
+            <rect x="-720" y="-50" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Graphic_19">
+            <rect x="-700" y="-50" width="20" height="10" fill="white"/>
+            <rect x="-700" y="-50" width="20" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_16">
+        <path d="M -645 -115 C -641.25 -115 -630 -115 -630 -107.5 C -630 -100 -641.25 -100 -645 -100 C -648.75 -100 -645 -100 -645 -100 C -647.484 -100 -660 -100 -660 -107.5 C -660 -115 -648.75 -115 -645 -115 Z" fill="white"/>
+        <path d="M -645 -115 C -641.25 -115 -630 -115 -630 -107.5 C -630 -100 -641.25 -100 -645 -100 C -648.75 -100 -645 -100 -645 -100 C -647.484 -100 -660 -100 -660 -107.5 C -660 -115 -648.75 -115 -645 -115 Z" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_15">
+        <path d="M -645 -90 C -641.25 -90 -630 -90 -630 -82.5 C -630 -75 -641.25 -75 -645 -75 C -648.75 -75 -645 -75 -645 -75 C -647.484 -75 -660 -75 -660 -82.5 C -660 -90 -648.75 -90 -645 -90 Z" fill="white"/>
+        <path d="M -645 -90 C -641.25 -90 -630 -90 -630 -82.5 C -630 -75 -641.25 -75 -645 -75 C -648.75 -75 -645 -75 -645 -75 C -647.484 -75 -660 -75 -660 -82.5 C -660 -90 -648.75 -90 -645 -90 Z" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group_5">
+        <g id="Line_14">
+          <line x1="-519.2308" y1="-90" x2="-550" y2="-90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_13">
+          <line x1="-519.2308" y1="-84.61538" x2="-550" y2="-84.61538" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_12">
+          <line x1="-519.2308" y1="-79.23077" x2="-550" y2="-79.23077" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_11">
+          <line x1="-525.3846" y1="-73.84615" x2="-550" y2="-73.84615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_10">
+          <line x1="-525.3846" y1="-68.46154" x2="-550" y2="-68.46154" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_9">
+          <line x1="-519.2308" y1="-63.07692" x2="-550" y2="-63.07692" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_8">
+          <line x1="-519.2308" y1="-57.69231" x2="-550" y2="-57.69231" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_7">
+          <line x1="-525.3846" y1="-52.30769" x2="-550" y2="-52.30769" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_6">
+          <line x1="-519.2308" y1="-46.923077" x2="-550" y2="-46.923077" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Line_34">
+        <path d="M -660 -48.53398 C -624.6152 -28.149934 -601.5967 -48.526913 -600.66834 -65.45848" marker-end="url(#StickArrow_Marker)" stroke="#ef5ba1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_35">
+        <line x1="-560" y1="-55" x2="-666.6" y2="-55" marker-end="url(#StickArrow_Marker_2)" stroke="#808285" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_36">
+        <line x1="-560" y1="-82.5" x2="-616.6" y2="-82.5" marker-end="url(#StickArrow_Marker_3)" stroke="#26bdcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
